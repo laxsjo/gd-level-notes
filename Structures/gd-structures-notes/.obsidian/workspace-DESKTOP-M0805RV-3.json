@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda32065f6d855e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d7c2aac3b90c3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Differentiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c21aae40826443fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Math - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce805dd921f058d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logarithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e86964f54734a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Chemistry - Test 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d60b892cfbb103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dynamo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82e92fdf479af217",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Differentiation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8babdb0c73160f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Differentiation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308a19510d5f3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Differentiation.md"
+              }
+            }
+          },
+          {
+            "id": "e88c85fcb17462de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "active": "0d7c2aac3b90c3d2",
+  "lastOpenFiles": [
+    "Math/Math - Index.md",
+    "Logarithms.md",
+    "Math/Differentiation.md",
+    "Chemistry/Chemistry - Test 2.md",
+    "Physics/Physics - Misc Problems.md",
+    "Physics/Pressure.md",
+    "Physics/Density.md",
+    "-Excalidraw/Mathproblems 2022-08-31 13.10.41.excalidraw.md",
+    "Physics/Power.md",
+    "-Excalidraw/Minoritetsspråk.md"
+  ]
+}

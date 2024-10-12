@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d05cac8e28644e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b6a4426bca1c160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Math - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1f4e556ee5202fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Test 4/Primitive Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc6213223a64155b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Math - Misc Problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f052546d6913634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "inflection",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82e92fdf479af217",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Math - Misc Problems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8babdb0c73160f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Math - Misc Problems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308a19510d5f3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Math - Misc Problems.md"
+              }
+            }
+          },
+          {
+            "id": "e88c85fcb17462de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d213b61c659cce8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "dc6213223a64155b",
+  "lastOpenFiles": [
+    "Math/Test 4/Primitive Functions.md",
+    "Math/Math - Misc Problems.md",
+    "Math/Math - Index.md",
+    "Physics/Physics - Test 4.md",
+    "Math/Test 4",
+    "Physics/Chapter 9/Electric Fields.md",
+    "Physics/Chapter 9/Electric Energy.md",
+    "Physics/Chapter 9/Voltage.md",
+    "Physics/Chapter 9/Current.md",
+    "Physics/Chapter 9/Charge.md",
+    "Svenska/Prov 2/Medeltiden.md",
+    "Svenska/Prov 2/Antiken.md",
+    "Math/Inequalities.md",
+    "Math/Increasing and Decreasing Functions.md",
+    "Svenska/Prov 2.zip",
+    "Math/Gymnasiearbete/Ideas.md",
+    "Svenska/Prov 2/Untitled 1.md",
+    "Math/Gymnasiearbete",
+    "Physics/Chapter 9/Electric Potential.md",
+    "Physics/Physics - Test 4.canvas",
+    "Physics/Chapter 9/Resistance.md",
+    "Physics/Physics - Test 3.md",
+    "Physics/Chapter 9/Resistivity.md",
+    "Physics/Chapter 9/Electromotive Voltage & Internal Resistance.md",
+    "Chemistry/Chemistry - Test 3.md",
+    "Physics/Untitled.md",
+    "Svenska/Prov 2",
+    "Physics/Impulse.md",
+    "Math/Math - Fun Problems.md",
+    "Math/Test 1/Common Term Identity.md",
+    "Math/ABC Formula.md"
+  ]
+}

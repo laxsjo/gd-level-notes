@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ab09cbcc86f69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4c7432476da240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Physics Test 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87452c222151e945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d60b892cfbb103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dynamo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a78e001187c96e73",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "dimension": 62.357142857142854,
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Momentum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8babdb0c73160f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/Momentum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308a19510d5f3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Momentum.md"
+              }
+            }
+          },
+          {
+            "id": "67006205be3bdf2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e6e00efc25d5ba7c",
+        "type": "tabs",
+        "dimension": 37.642857142857146,
+        "children": [
+          {
+            "id": "168ec627ebe9363f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-Excalidraw/Mathproblems 2022-08-31 13.10.41.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.6704406738281
+  },
+  "active": "87452c222151e945",
+  "lastOpenFiles": [
+    "Physics/Physics Test 2.md",
+    "Physics/Momentum.md",
+    "-Excalidraw/Mathproblems 2022-08-31 13.10.41.excalidraw.md",
+    "Math/Derivative.md",
+    "Math/Math - Misc Problems.md",
+    "Math/Common Term Identity.md",
+    "Math/Differentiation.md",
+    "Chemistry/Chemistry - Test 2.md",
+    "Untitled.md",
+    "Chemistry/Periodic Table.jpg"
+  ]
+}

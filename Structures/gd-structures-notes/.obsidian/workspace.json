@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7969c70f5d1d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ed4d2c4f92e7e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2058f1a12ee3a8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math Scratch Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a74a917095a54db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editor Layer Semantics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b537473354b3f794",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Area-Trigger-Direction-Icons.png"
+              }
+            }
+          },
+          {
+            "id": "dda0063e15c51252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perspective Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "535154c9e9ecfee5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "4ecc130947a593d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measurements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81149ea4be4b6ebf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "4def39071224d4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part 1 Shadows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "840712f645238372",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b991cf879988c32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f052546d6913634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fc196ceac28ce3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ce88915eef7e785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "^snells",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Perspective Math.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8babdb0c73160f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Perspective Math.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308a19510d5f3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Perspective Math.md"
+              }
+            }
+          },
+          {
+            "id": "e88c85fcb17462de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d213b61c659cce8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ed6e9f3cea70e41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "dda0063e15c51252",
+  "lastOpenFiles": [
+    "Area-Trigger-Direction-Icons.png",
+    "Perspective Math.md",
+    "Editor Guide Notes.md",
+    "Editor Layer Semantics.md",
+    "Math Scratch Paper.md",
+    "Measurements.md",
+    "Part 1 Shadows.md",
+    "Pasted Image 20240616115225_219.png",
+    "Pasted Image 20240616115402_797.png",
+    "Sun Area Factors.md",
+    "TODOS.md",
+    "-Excalidraw/Editor Guide Notes 2024-06-16 11.50.00.excalidraw.md",
+    "-Excalidraw",
+    "Pasted image 20240614112617.png",
+    "Trigger Units.md",
+    "preamble.sty",
+    "Math/Year 3/Math4/Test 2/Primitive Functions (Again).md",
+    "Math/Year 3/Math4/Test 2/Quantifiers in Math.md",
+    "DAODAC/OSI and TCP-IP.md",
+    "Physics/FYS2/Chapter 4/Pair Production.md",
+    "Physics/FYS2/Physics - Misc Problems.md",
+    "Math/Year 3/Math4/Test 2/Equations of Higher Degree.md",
+    "Math/Year 3/Math4/Test 2/Exponential Form of Complex Numbers.md",
+    "Math/Year 3/Math4/Test 2/Complex Exponent Equations.md",
+    "Math/Year 3/Math4/Test 2/Complex Numbers.md",
+    "Physics/FYS2/Chapter 4/Photoelectric Effect.md",
+    "DAODAC/Network Devices.md",
+    "Math/Year 3/Math5/Test 2/Differential Equations.md",
+    "Math/Year 3/Math4/Test 2/The Complex Plane.md",
+    "Physics/FYS2/Chapter 2/Frequency.md",
+    "Physics/FYS2/Chapter 4/Electromagnetic Radiation.md",
+    "Pasted image 20240320120929.png",
+    "Pasted Image 20240315120852_242.png",
+    "Untitled",
+    "maxwell-boltzmann.webp",
+    "Physics/FYS2/Chapter 4",
+    "Untitled 1",
+    "Pasted image 20240214122300.png",
+    "Pasted image 20240214121522.png",
+    "Pasted image 20240214121510.png",
+    "Math/Year 3/Math4/Test 2",
+    "Math/Year 3/Math4/Test 1",
+    "Math/Year 3/Math5/Test 2",
+    "Math/Year 3/Math5/Test 1",
+    "math'",
+    "oeshoentohst.canvas",
+    "Physics/Physics - Test 4.canvas"
+  ]
+}

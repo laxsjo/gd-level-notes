@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "snippets",
+    "fonts"
+  ]
+}

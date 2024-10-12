@@ -1,0 +1,69 @@
+{
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-min3ditorhotkeys-plugin:editor-ih-new-line-before": [],
+  "obsidian-min3ditorhotkeys-plugin:editor-ih-new-line-after": [],
+  "hotkeysplus-obsidian:clear-current-line": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "hotkeysplus-obsidian:insert-line-above": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "hotkeysplus-obsidian:insert-line-below": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "editor:delete-paragraph": [],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}

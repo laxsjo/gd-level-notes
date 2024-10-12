@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "path:-Excalidraw",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Svenska/Grammatik",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
+      }
+    },
+    {
+      "query": "path:Math",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
+      }
+    },
+    {
+      "query": "path:Physics",
+      "color": {
+        "a": 1,
+        "rgb": 5431497
+      }
+    },
+    {
+      "query": "path:Excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Svenska/Minoritetsspråk och Dialekter\"",
+      "color": {
+        "a": 1,
+        "rgb": 14261542
+      }
+    },
+    {
+      "query": "path:Teknik",
+      "color": {
+        "a": 1,
+        "rgb": 14701166
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.548611111111111,
+  "repelStrength": 15.0198412698413,
+  "linkStrength": 1,
+  "linkDistance": 265,
+  "scale": 0.10316621277154589,
+  "close": true
+}

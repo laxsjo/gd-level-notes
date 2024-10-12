@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "cSpell.words": [
+        "lxml"
+    ],
+    "python.analysis.extraPaths": [
+        "./scripts"
+    ],
+    "svg.preview.background": "dark-transparent"
+}

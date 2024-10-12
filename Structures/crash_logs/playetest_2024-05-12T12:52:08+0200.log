@@ -1,0 +1,126 @@
+2024-05-12T12:52:08+0200
+On the bright side, I bought you a teddy bear!
+
+== Geode Information ==
+- Working Directory: C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash
+- Loader Version: v2.0.0-beta.26 (Geometry Dash v2.204)
+- Loader Commit: 2857ecf
+- Bindings Commit: d35e301
+- Installed Mods: 26 (Loaded: 25/25)
+- 4GB Patch: Patched
+- Problems: 0
+
+== Exception Information ==
+- Thread Information: "Main" (ID: 20568)
+- Exception Code: EH_EXCEPTION_NUMBER (0xE06D7363)
+- Exception Address: KERNELBASE.dll+0x13FAE2 (RaiseException+0x62)
+- Exception Flags: 0x1
+- Exception Parameters: 0x19930520, 0xD8F664, 0x563556F4
+C++ Exception: class std::length_error("vector<T> too long")
+
+== Stack Trace ==
+- KERNELBASE.dll+0x13FAE2 (RaiseException+0x62)
+- MSVCR120.dll+0x18A19 (CxxThrowException+0x4e)
+- MSVCP120.dll+0x13A4F (std::_Xlength_error+0x2e)
+- GeometryDash.exe+0xE1697 (<0xe1660>+0x37)
+- GeometryDash.exe+0x12F0F3 (<0x12f0c0>+0x33)
+- GeometryDash.exe+0x1AB93B (GJBaseGameLayer::addToSection+0x13b)
+- GeometryDash.exe+0x1ACDC2 (GJBaseGameLayer::updateObjectSection+0x82)
+- GeometryDash.exe+0x1B20BD (GJBaseGameLayer::moveObjects+0x11d)
+- GeometryDash.exe+0x1B4709
+- GeometryDash.exe+0x1B3417 (<0x1b3380>+0x97)
+- GeometryDash.exe+0x1AFE5F (GJBaseGameLayer::processMoveActionsStep+0x17f)
+- GeometryDash.exe+0x1BBF73 (GJBaseGameLayer::update+0x7f3)
+- 0x04A70416
+- 0x04A70037
+- tpdea.betterpause-Better.dll+0x253E5
+- libcocos2d.dll+0x107031 (cocos2d::CCTimer::update+0x61)
+- libcocos2d.dll+0x106EC4 (cocos2d::CCScheduler::update+0x114)
+- 0x02D30416
+- 0x02D30037
+- 0x1CFC0409
+- 0x1CFC002B
+- 0x1CFC002B
+- GeometryDash.exe+0x3C12D8 (<0x3c10f0>+0x1e8)
+- Geode.dll+0x1765C4 (gdMainHook+0x214)
+└ D:\a\geode\geode\loader\src\platform\windows\main.cpp:59
+- GeometryDash.exe+0x3C267E (<0x3c1710>+0xf6e)
+- KERNEL32.DLL+0x1FCC9 (BaseThreadInitThunk+0x19)
+- ntdll.dll+0x67C5E (RtlGetAppContainerNamedObjectPath+0x11e)
+- ntdll.dll+0x67C2E (RtlGetAppContainerNamedObjectPath+0xee)
+
+== Register States ==
+- EAX: 00D8F5B8 (-> 0xE06D7363)
+- EBX: 3FFFFFFF (1073741823i | 1073741823u)
+- ECX: 00000003 (3i | 3u)
+- EDX: 00000000 (0i | 0u)
+- ESI: 563556F4 (&"")
+- EDI: 00D8F664 (-> 0x5631147C -> MSVCP120.dll+0x147C)
+- EBP: 00D8F614 (-> 0xD8F654 -> 0xD8F670 -> 0xD8F688 -> 0xD8F6A0 -> 0xD8F6DC -> 0xD8F6F0 -> 0xD8F71C -> 0xD8F854 -> 0xD8F874 -> 0xD8F8B8 -> 0xD8F948 -> 0xD8F978 [...])
+- ESP: 00D8F5B8 (-> 0xE06D7363)
+- EIP: 755CFAE2 (KERNELBASE.dll+0x13FAE2 (RaiseException+0x62))
+- AF: 1 | CF: 0 | DF: 0 
+- IF: 1 | OF: 0 | PF: 1 
+- SF: 0 | TF: 0 | ZF: 0 
+
+== Installed Mods ==
+x | [v1.0.5] abb2k.backup
+x | [v8.0.0-alpha.134] absolllute.megahack
+x | [v1.0.0] bigmancozmo.skip_editor_save_confirm
+x | [v4.1.10] cvolton.betterinfo
+x | [v1.1.3] cvolton.misc_bugfixes
+x | [v1.0.1] elsai.easing_preview
+x | [v1.5.7] geode.custom-keybinds
+x | [v1.5.1] geode.devtools
+x | [v2.0.0-beta.26] geode.loader
+x | [v1.9.1] geode.node-ids
+x | [v1.0.5] hiimjustin000.more_object_info
+x | [v6.3.5] hjfod.betteredit
+x | [v1.0.5] hjfod.gdshare
+x | [v1.0.5] hjfod.gmd-api
+x | [v1.1.0] itzkiba.better_progression
+x | [v1.0.1] jojo989.geometwy_dash
+x | [v1.0.0] mat.reference-image
+x | [v1.0.3] mat.run-info
+x | [v1.0.0-beta.19] minemaker0430.gddp_integration
+x | [v2.0.4-beta.1] muhammadgames.bettermenu
+x | [v1.2.0] naxrin.garage_in_editor
+x | [v1.2.0] prevter.bettercrash
+x | [v1.0.2] slammy333.save_button
+  | [v1.0.9] syzzi.click_between_frames
+x | [v2.11.0] techstudent10.discord_rich_presence
+x | [v1.6.8] tpdea.betterpause-Better
+
+== Stack Allocations ==
+- 0xD8F5B8: E06D7363 (3765269347i | 3765269347u)
+- 0xD8F5BC: 00000001 (1i | 1u)
+- 0xD8F5C0: 00000000 (0i | 0u)
+- 0xD8F5C4: 755CFAE2 (KERNELBASE.dll+0x13FAE2 (RaiseException+0x62))
+- 0xD8F5C8: 00000003 (3i | 3u)
+- 0xD8F5CC: 19930520 (&"")
+- 0xD8F5D0: 00D8F664 (-> 0x5631147C -> MSVCP120.dll+0x147C)
+- 0xD8F5D4: 563556F4 (&"")
+- 0xD8F5D8: 00000013 (19i | 19u)
+- 0xD8F5DC: 0139380C (-> 0x2A9F4C68 -> 0x1393808 -> &"")
+- 0xD8F5E0: 00000000 (0i | 0u)
+- 0xD8F5E4: 00F90000 (-> 0xD91ACB6F)
+- 0xD8F5E8: 01393808 (&"")
+- 0xD8F5EC: 00000000 (0i | 0u)
+- 0xD8F5F0: 00D8F610 (-> 0xD8F630 -> 0x10)
+- 0xD8F5F4: 77355E0E (ntdll.dll+0x45E0E (RtlAllocateHeap+0x3e))
+- 0xD8F5F8: 00D8F664 (-> 0x5631147C -> MSVCP120.dll+0x147C)
+- 0xD8F5FC: 77355E0E (ntdll.dll+0x45E0E (RtlAllocateHeap+0x3e))
+- 0xD8F600: 00000000 (0i | 0u)
+- 0xD8F604: 00000000 (0i | 0u)
+- 0xD8F608: 00000013 (19i | 19u)
+- 0xD8F60C: B76FEB02 (3077565186i | 3077565186u)
+- 0xD8F610: 00D8F630 (-> 0x10)
+- 0xD8F614: 00D8F654 (-> 0xD8F670 -> 0xD8F688 -> 0xD8F6A0 -> 0xD8F6DC -> 0xD8F6F0 -> 0xD8F71C -> 0xD8F854 -> 0xD8F874 -> 0xD8F8B8 -> 0xD8F948 -> 0xD8F978 -> 0xD8F9E4 [...])
+- 0xD8F618: 56008A19 (MSVCR120.dll+0x18A19 (CxxThrowException+0x4e))
+- 0xD8F61C: E06D7363 (3765269347i | 3765269347u)
+- 0xD8F620: 00000001 (1i | 1u)
+- 0xD8F624: 00000003 (3i | 3u)
+- 0xD8F628: 00D8F648 (-> 0x19930520 -> &"")
+- 0xD8F62C: 7FFFFFF1 (2147483633i | 2147483633u)
+- 0xD8F630: 00000010 (16i | 16u)
+- 0xD8F634: E06D7363 (3765269347i | 3765269347u)

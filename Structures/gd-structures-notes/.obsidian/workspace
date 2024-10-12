@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e50b9e249c72f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Svenska/Minoritetsspråk och Dialekter/Dialekter.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d60b892cfbb103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#satsdel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.51219177246094
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Svenska/Minoritetsspråk och Dialekter/Dialekter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6e00efc25d5ba7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168ec627ebe9363f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-Excalidraw/Mathproblems 2022-08-31 13.10.41.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.6704406738281,
+    "collapsed": true
+  },
+  "active": "43e50b9e249c72f7",
+  "lastOpenFiles": [
+    "Svenska/Minoritetsspråk och Dialekter/Jiddisch.md",
+    "Svenska/Minoritetsspråk och Dialekter/Minoritetsspråk.md",
+    "Svenska/Minoritetsspråk och Dialekter/Uppgifter.md",
+    "Svenska/Minoritetsspråk och Dialekter/Romani chib.md",
+    "Svenska/Minoritetsspråk/Untitled.md",
+    "Svenska/Minoritetsspråk/Untitled 2.md",
+    "Svenska/Minoritetsspråk/Untitled 1.md",
+    "Svenska/Minoritetsspråk och Dialekter/Dialekter.md",
+    "Math/Calculation of Limits.md",
+    "Math/Derivative.md"
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7969c70f5d1d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe96c3e7c91a6e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e299898ce9cbfcf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Year 3/Math4/Addition and Subtraction With Trigonometric Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a062c2ecd02a147a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Year 3/Math4/Trigonometric Identities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a11a6d85d2fea34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svenska/År 3/Tal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c5b7ec1cb93a9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svenska/År 3/Tal – språklig variation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35b30597a20d0ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/FYS2/Chapter 3/Magnetic Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0424f6ad251837c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/FYS2/Chapter 3/Induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc81795b7df9f80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/FYS1/Chapter 9/Electric Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f052546d6913634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-Excalidraw/Drawing 2023-05-24 10.32.51.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3fc196ceac28ce3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecee3194fb245d89",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-Excalidraw/Drawing 2023-11-17 12.10.50.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e070265175ed84e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-Excalidraw/Drawing 2024-01-10 14.20.54.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0ce88915eef7e785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "farad",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Year 3/Math4/Trigonometric Identities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8babdb0c73160f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Year 3/Math4/Trigonometric Identities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308a19510d5f3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Year 3/Math4/Trigonometric Identities.md"
+              }
+            }
+          },
+          {
+            "id": "e88c85fcb17462de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d213b61c659cce8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ed6e9f3cea70e41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a062c2ecd02a147a",
+  "lastOpenFiles": [
+    "Math/Year 3/Math4/Trigonometric Equations.md",
+    "Math/Year 3/Math4/Addition and Subtraction With Trigonometric Functions.md",
+    "Math/Year 3/Math4/Application of Derivatives.md",
+    "Math/Year 3/Math5/Number Sequences.md",
+    "Physics/FYS2/Chapter 1/Geostationary Satellites.md",
+    "Physics/FYS2/Chapter 3/Induction.md",
+    "Physics/FYS1/Chapter 9/Electric Fields.md",
+    "Physics/FYS2/Chapter 3/Magnetic Fields.md",
+    "Physics/FYS2/Chapter 3/Capacitor.md",
+    "Untitled 2.md",
+    "Svenska/År 3/Tal – språklig variation.md",
+    "Svenska/År 3/Tal.md",
+    "Romerska riket.md",
+    "Pasted image 20240116102928.png",
+    "Math/Year 3/Math5/Set Operations.md",
+    "Math/Year 3/Math5/Set Theory.md",
+    "Math/Year 3/Math4/Exercies.md",
+    "Math/Year 3/Math4/Trigonometric Identities.md",
+    "Math/Year 3/Math4/Trigonometry in the Unit Circle.md",
+    "Math/Advanced Math - Extra Lessons/Abstraction.md",
+    "Math/Year 3/Math4/Radian.md",
+    "Math/Year 3/Math4/Chain Rule.md",
+    "Math/Year 3/Math4/Generic Function Transformations.md",
+    "Math/Year 2/ABC Formula.md",
+    "Math/Year 3/Math4/Derivative, but harder.md",
+    "Math/Year 3/Math4/Test 1.md",
+    "Math/Year 3/Math4/Funky Sine Functions.md",
+    "Pasted image 20240112104010.png",
+    "Fleming’s-right-Hand-Rule.png",
+    "Pasted image 20230927114330.png",
+    "Pasted image 20231026101955.png",
+    "Pasted image 20231003124709.png",
+    "Pasted image 20231026102032.png",
+    "Pasted image 20231026102847.png",
+    "Pasted image 20230907110010.png",
+    "Pasted image 20230911103406.png",
+    "math'",
+    "DAODAC/GPU - Presentations",
+    "Physics/FYS2/Chapter 3",
+    "oeshoentohst.canvas",
+    "Svenska/År 3/Språkhistoria",
+    "Physics/FYS2/Chapter 2",
+    "Svenska/År 3",
+    "Gymnasiearbete",
+    "DAODAC",
+    "Math/Year 3/Math5",
+    "Math/Year 3/Math4",
+    "Physics/Physics - Test 4.canvas"
+  ]
+}

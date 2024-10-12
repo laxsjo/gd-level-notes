@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e493b0c61f43f09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed801bac9b534c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Chapter 10/The Standard Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a15f7e0796356641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Chapter 11/Ionizing Radiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f3080b6c176a05f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Chapter 11/Electromagnetic radiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f60d1d648dc16e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Chapter 11/Nucleides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e38787666cd6277a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Chapter 11/Nuclear Reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be6cdf0220827ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Chapter 11/Electromagnetic radiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65690e8efb9d112e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svenska/Prov 3 - Upplysningstiden/Satir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f052546d6913634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "joule",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82e92fdf479af217",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Chapter 11/Ionizing Radiation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8babdb0c73160f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/Chapter 11/Ionizing Radiation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308a19510d5f3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Chapter 11/Ionizing Radiation.md"
+              }
+            }
+          },
+          {
+            "id": "e88c85fcb17462de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d213b61c659cce8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a15f7e0796356641",
+  "lastOpenFiles": [
+    "Physics/Chapter 11/Nuclear Reactions.md",
+    "Physics/Chapter 11/Nucleides.md",
+    "Physics/Chapter 11/Atoms maybeee.md",
+    "Physics/Chapter 11/Electromagnetic radiation.md",
+    "Physics/Chapter 11/Ionizing Radiation.md",
+    "Physics/Estimations.md",
+    "Physics/Chapter 10/The Standard Model.md",
+    "Physics/Chapter 11",
+    "Physics/Chapter 10/Particle Physics.md",
+    "Svenska/Prov 3 - Upplysningstiden/Upplysningen.md",
+    "Svenska/Prov 3 - Upplysningstiden/Satir.md",
+    "Svenska/Prov 3 - Upplysningstiden/Språkliga misstag.md",
+    "Chemistry/Chemistry - Test 4.md",
+    "Chemistry/Untitled 1.md",
+    "Physics/Chapter 10/Speed of Light.md",
+    "Physics/Chapter 10/The Fundamental Forces.md",
+    "Physics/Chapter 10/Relativity.md",
+    "Math/Test 4/Arithmetic Progretion.md",
+    "Chemistry/Chemistry - Test 3.md",
+    "Math/Math - Test 3.md",
+    "Math/Test 4/Primitive Functions.md",
+    "Math/Test 4/Integrals.md",
+    "Math/Telescopic Sum.md",
+    "Math/Advanced Math - Extra Lessons/Abstraction.md",
+    "Planning/Week 12-13.md",
+    "Math/Advanced Math - Extra Lessons",
+    "Planning",
+    "Math/Test 3/Absolute Extreme Point.md",
+    "Math/Test 3/Concave and Convex Functions.md",
+    "Math/Extra Lessons",
+    "Physics/Chapter 10",
+    "Svenska/Prov 3 - Upplysningstiden",
+    "Math/Test 4",
+    "Svenska/Prov 2.zip",
+    "Math/Gymnasiearbete",
+    "Physics/Physics - Test 4.canvas",
+    "Svenska/Prov 2"
+  ]
+}

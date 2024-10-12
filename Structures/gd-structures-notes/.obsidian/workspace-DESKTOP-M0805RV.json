@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ab09cbcc86f69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a77c1db24463dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Physics Test 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "303e2bf32afd3452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "774cfc74acfed660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Acceleration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e50ea1349175d838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Friction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edf4d42313859c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Spring Force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37534f0e5a30d079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d60b892cfbb103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dynamo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/Physics Test 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6e00efc25d5ba7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168ec627ebe9363f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-Excalidraw/Mathproblems 2022-08-31 13.10.41.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.6704406738281,
+    "collapsed": true
+  },
+  "active": "4a77c1db24463dba",
+  "lastOpenFiles": [
+    "-Excalidraw/Physics Test 2 2022-11-18 16.27.54.excalidraw.md",
+    "Physics/Physics Test 2.md",
+    "Math/Pasted image 20221115084947.png",
+    "Physics/Force.md",
+    "Physics/Vectors (Phy.).md",
+    "-Excalidraw/Physics Test 2 2022-11-18 16.10.53.excalidraw.md",
+    "-Excalidraw/Physics Test 2 2022-11-18 11.31.14.excalidraw.md",
+    "-Excalidraw/Physics Test 2 2022-11-18 10.23.17.excalidraw.md",
+    "-Excalidraw/Physics Test 2 2022-11-18 11.12.49.excalidraw.md",
+    "Physics/Friction.md"
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "5e0c50c590cf911a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7969c70f5d1d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4eb80f3faa5f1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svenska/År 3/Akademiskt skrivande.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "131e9a7eea249b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/FYS2/Chapter 1/Projectile Motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fda2a11315ec4d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Year 2/ABC Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dc034c387fe3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "317c533ca0410e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f052546d6913634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4a4e4e227c5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-Excalidraw/Drawing 2023-05-24 10.32.51.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "82e92fdf479af217",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fc196ceac28ce3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecee3194fb245d89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "abc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "6a0a7ac8dea38b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03370510db9398a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61dbaaa01ea1683c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/FYS2/Chapter 1/Projectile Motion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8babdb0c73160f65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/FYS2/Chapter 1/Projectile Motion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308a19510d5f3429",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/FYS2/Chapter 1/Projectile Motion.md"
+              }
+            }
+          },
+          {
+            "id": "e88c85fcb17462de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d213b61c659cce8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ed6e9f3cea70e41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "131e9a7eea249b4f",
+  "lastOpenFiles": [
+    "Math/Year 2/ABC Formula.md",
+    "Physics/FYS2/Chapter 1/Projectile Motion.md",
+    "Svenska/År 3/Exempel, texter om hen.md",
+    "Physics/FYS2/Chapter 1/Angular Velocity.md",
+    "Svenska/År 3/PM övning – resultat.md",
+    "Svenska/År 3/Untitled 1.md",
+    "Svenska/År 3/Untitled.md",
+    "Svenska/År 3/Akademiskt skrivande.md",
+    "Svenska/År 3/Referat.md",
+    "Svenska/År 3/Begravd Jätte.md",
+    "Math/Year 3/Math4/Trigonometric Equations.md",
+    "Math/Year 3/Math5/The Division Algorithm.md",
+    "Math/Year 3/Math4/Radian.md",
+    "Math/Year 3/Math5/Divisibility.md",
+    "Math/Year 3/Math4/Untitled.md",
+    "DAODAC/Week 37.md",
+    "Physics/FYS2/Chapter 1/Circular motion.md",
+    "Physics/FYS2/Chapter 1/Moment of Force.md",
+    "DAODAC/Exam 1.md",
+    "Historia/Tidiga högkulturer & flodkulturer.md",
+    "DAODAC/Week 36.md",
+    "Historia/Romerska riket.md",
+    "DAODAC/Cooling.md",
+    "DAODAC/Material.md",
+    "DAODAC/Random stuff.md",
+    "DAODAC/Power Supply Unit.md",
+    "Pasted image 20230911103406.png",
+    "Pasted image 20230907110010.png",
+    "Svenska/År 3",
+    "Gymnasiearbete",
+    "DAODAC",
+    "Math/Year 3/Math5",
+    "Math/Year 3/Math4",
+    "Math/Year 3",
+    "Math/Year 2",
+    "Physics/FYS2/Chapter 1",
+    "Physics/FYS2",
+    "Physics/FYS1",
+    "Physics/FYS1/Untitled Diagram.svg",
+    "Physics/Physics - Test 4.canvas"
+  ]
+}

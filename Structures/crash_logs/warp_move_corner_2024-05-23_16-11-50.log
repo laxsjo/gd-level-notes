@@ -1,0 +1,208 @@
+2024-05-23T16:11:50+0200
+Whoopsies! An unhandled exception has occurred.
+
+== Geode Information ==
+Loader Version: v2.0.0-beta.26
+Loader Commit: 2857ecf
+Bindings Commit: d35e301
+Installed mods: 27
+Problems: 0
+
+== Exception Information ==
+C++ Exception: class std::length_error("vector<T> too long")
+Faulty Mod: <Unknown>
+Crashed thread: Main
+
+== Stack Trace ==
+ - C:\WINDOWS\System32\KERNELBASE.dll + 140b82 (RaiseException + 98)
+ - C:\WINDOWS\SYSTEM32\MSVCR120.dll + 18a19 (CxxThrowException + 78)
+ - C:\WINDOWS\SYSTEM32\MSVCP120.dll + 13a4f (std::_Xlength_error + 46)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + e1697
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 12f0f3
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 1ab8a1
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d4f78
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d7465
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d6d98
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d6c02
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + e1121
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d9204
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + f8b71 (cocos2d::CCTouchDispatcher::touches + 353)
+ - 22B23186
+ - 22B22DAF
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\geode.devtools\geode.devtools.dll + 452a
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 6a3a8 (cocos2d::CCObject::setTag + 24)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 6a7a1 (cocos2d::CCObject::setTag + 1041)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + f8e19 (cocos2d::CCTouchDispatcher::touchesMoved + 25)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + beaa0 (cocos2d::CCEGLViewProtocol::handleTouchesMove + 336)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + c7a6c (cocos2d::CCEGLView::onGLFWMouseMoveCallBack + 284)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 116bee (cocos2d::CCPoint::unrotate + 7854)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 1188f5 (cocos2d::CCPoint::unrotate + 15285)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 1454fc
+ - C:\WINDOWS\System32\USER32.dll + 4199b (AddClipboardFormatListener + 75)
+ - C:\WINDOWS\System32\USER32.dll + 37dba (GetClassLongW + 1962)
+ - C:\WINDOWS\System32\USER32.dll + 37576 (GetSystemMetricsForDpi + 3142)
+ - C:\WINDOWS\System32\USER32.dll + 35d9b (CallWindowProcW + 27)
+ - C:\WINDOWS\SYSTEM32\OPENGL32.dll + 4680f (glDebugEntry + 3631)
+ - C:\WINDOWS\System32\USER32.dll + 4199b (AddClipboardFormatListener + 75)
+ - C:\WINDOWS\System32\USER32.dll + 37dba (GetClassLongW + 1962)
+ - C:\WINDOWS\System32\USER32.dll + 366f1 (DispatchMessageW + 1265)
+ - C:\WINDOWS\System32\USER32.dll + 36210 (DispatchMessageW + 16)
+ - C:\Program Files (x86)\Steam\gameoverlayrenderer.dll + 840c1 (OverlayHookD3D3 + 122801)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 117472 (cocos2d::CCPoint::unrotate + 10034)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + c4dd0 (cocos2d::CCApplication::run + 720)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 3c12d8
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Geode.dll + 1765c4 (gdMainHook + 532 | D:\a\geode\geode\loader\src\platform\windows\main.cpp:59)
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 3c267e
+ - C:\WINDOWS\System32\KERNEL32.DLL + 1fcc9 (BaseThreadInitThunk + 25)
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 67cbe (RtlGetAppContainerNamedObjectPath + 286)
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 67c8e (RtlGetAppContainerNamedObjectPath + 238)
+
+== Register States ==
+EAX: 00eff160
+EBX: 3fffffff
+ECX: 00000003
+EDX: 00000000
+EBP: 00eff1bc
+ESP: 00eff160
+EDI: 00eff20c
+ESI: 640556f4
+EIP: 759c0b82
+
+== Installed Mods ==
+x | [v1.0.5] abb2k.backup
+x | [v8.0.0-alpha.134] absolllute.megahack
+x | [v1.0.0] bigmancozmo.skip_editor_save_confirm
+x | [v4.1.10] cvolton.betterinfo
+x | [v1.1.3] cvolton.misc_bugfixes
+x | [v1.0.1] elsai.easing_preview
+x | [v1.5.9] geode.custom-keybinds
+x | [v1.5.1] geode.devtools
+x | [v2.0.0-beta.26] geode.loader
+x | [v1.11.0] geode.node-ids
+x | [v1.0.6] hiimjustin000.more_object_info
+x | [v6.4.0] hjfod.betteredit
+x | [v1.2.0] hjfod.bettersave
+x | [v1.0.5] hjfod.gdshare
+x | [v1.1.0] hjfod.gmd-api
+x | [v1.1.0] itzkiba.better_progression
+  | [v1.0.1] jojo989.geometwy_dash
+  | [v1.0.0] mat.reference-image
+x | [v1.0.3] mat.run-info
+x | [v1.0.0-beta.20] minemaker0430.gddp_integration
+x | [v2.0.4-beta.3] muhammadgames.bettermenu
+x | [v1.2.0] naxrin.garage_in_editor
+  | [v1.2.0] prevter.bettercrash
+x | [v1.0.2] slammy333.save_button
+  | [v1.0.9] syzzi.click_between_frames
+x | [v2.11.0] techstudent10.discord_rich_presence
+x | [v1.6.8] tpdea.betterpause-Better
+2024-05-23T16:11:50+0200
+Whoopsies! An unhandled exception has occurred.
+
+== Geode Information ==
+Loader Version: v2.0.0-beta.26
+Loader Commit: 2857ecf
+Bindings Commit: d35e301
+Installed mods: 27
+Problems: 0
+
+== Exception Information ==
+C++ Exception: class std::length_error("vector<T> too long")
+Faulty Mod: <Unknown>
+Crashed thread: Main
+
+== Stack Trace ==
+ - C:\WINDOWS\System32\KERNELBASE.dll + 140b82
+ - C:\WINDOWS\SYSTEM32\MSVCR120.dll + 18a19
+ - C:\WINDOWS\SYSTEM32\MSVCP120.dll + 13a4f
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + e1697
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 12f0f3
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + 1ab8a1
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d4f78
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d7465
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d6d98
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + dfff3
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + e1428
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\GeometryDash.exe + d97e7
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + f8b5b
+ - 22B23186
+ - 22B22DAF
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\geode.devtools\geode.devtools.dll + 452a
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\geode.devtools\geode.devtools.dll + 43e5
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + be92c
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + c7922
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + c794e
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 116cc9
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 116024
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\libcocos2d.dll + 11834b
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\geode\unzipped\absolllute.megahack\absolllute.megahack.dll + 1454fc
+ - C:\WINDOWS\System32\USER32.dll + 4199b
+ - C:\WINDOWS\System32\USER32.dll + 37dba
+ - C:\WINDOWS\System32\USER32.dll + 37576
+ - C:\WINDOWS\System32\USER32.dll + 35d9b
+ - C:\WINDOWS\SYSTEM32\OPENGL32.dll + 4680f
+ - C:\WINDOWS\System32\USER32.dll + 4199b
+ - C:\WINDOWS\System32\USER32.dll + 37dba
+ - C:\WINDOWS\System32\USER32.dll + 379ba
+ - C:\WINDOWS\System32\USER32.dll + 3bebf
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 750dd
+ - C:\WINDOWS\System32\USER32.dll + 4199b
+ - C:\WINDOWS\System32\USER32.dll + 34d1e
+ - C:\WINDOWS\System32\USER32.dll + 34410
+ - C:\WINDOWS\System32\USER32.dll + 34235
+ - C:\WINDOWS\System32\USER32.dll + 4199b
+ - C:\WINDOWS\System32\USER32.dll + 37dba
+ - C:\WINDOWS\System32\USER32.dll + 379ba
+ - C:\WINDOWS\System32\USER32.dll + 3bebf
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 750dd
+ - C:\WINDOWS\System32\USER32.dll + 2f4d6
+ - C:\WINDOWS\System32\USER32.dll + 24d41
+ - C:\WINDOWS\System32\USER32.dll + 8262b
+ - C:\WINDOWS\System32\USER32.dll + 813b1
+ - C:\WINDOWS\System32\USER32.dll + 81e77
+ - C:\WINDOWS\System32\USER32.dll + 81cae
+ - C:\WINDOWS\System32\USER32.dll + 819c5
+ - C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Geode.dll + 174e58
+ - C:\WINDOWS\System32\KERNELBASE.dll + 1e2432
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + a4952
+ - C:\WINDOWS\SYSTEM32\ntdll.dll + 67c8e
+
+== Register States ==
+EAX: 00efd570
+EBX: 3fffffff
+ECX: 00000003
+EDX: 00000000
+EBP: 00efd5cc
+ESP: 00efd570
+EDI: 00efd61c
+ESI: 640556f4
+EIP: 759c0b82
+
+== Installed Mods ==
+x | [v1.0.5] abb2k.backup
+x | [v8.0.0-alpha.134] absolllute.megahack
+x | [v1.0.0] bigmancozmo.skip_editor_save_confirm
+x | [v4.1.10] cvolton.betterinfo
+x | [v1.1.3] cvolton.misc_bugfixes
+x | [v1.0.1] elsai.easing_preview
+x | [v1.5.9] geode.custom-keybinds
+x | [v1.5.1] geode.devtools
+x | [v2.0.0-beta.26] geode.loader
+x | [v1.11.0] geode.node-ids
+x | [v1.0.6] hiimjustin000.more_object_info
+x | [v6.4.0] hjfod.betteredit
+x | [v1.2.0] hjfod.bettersave
+x | [v1.0.5] hjfod.gdshare
+x | [v1.1.0] hjfod.gmd-api
+x | [v1.1.0] itzkiba.better_progression
+  | [v1.0.1] jojo989.geometwy_dash
+  | [v1.0.0] mat.reference-image
+x | [v1.0.3] mat.run-info
+x | [v1.0.0-beta.20] minemaker0430.gddp_integration
+x | [v2.0.4-beta.3] muhammadgames.bettermenu
+x | [v1.2.0] naxrin.garage_in_editor
+  | [v1.2.0] prevter.bettercrash
+x | [v1.0.2] slammy333.save_button
+  | [v1.0.9] syzzi.click_between_frames
+x | [v2.11.0] techstudent10.discord_rich_presence
+x | [v1.6.8] tpdea.betterpause-Better

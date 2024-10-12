@@ -1,0 +1,123 @@
+body {
+	--font-title: "Quicksand";
+	--font-body: "Varela Round";
+
+	--inline-title-font: var(--font-title);
+	--h1-font: var(--font-title);
+	--h2-font: var(--font-title);
+	--h3-font: var(--font-title);
+	--h4-font: var(--font-title);
+	--h5-font: var(--font-title);
+	--h6-font: var(--font-title);
+
+	--font-interface: var(--font-body);
+	--font-text-override: var(--font-body);
+}
+
+.suggestion-item.is-selected .suggestion-note {
+	color: var(--text-on-accent);
+}
+
+.metadata-container {
+	margin-block-end: 0;
+}
+
+.callout-title-inner {
+	/* font-variant: small-caps; */
+	--bold-weight: 700;
+	font-family: var(--font-title);
+}
+
+.callout-content > :last-child {
+	margin-block-end: 0;
+}
+
+/* Default callout type overides */
+.callout[data-callout="example"] {
+	--callout-color: 188, 164, 255;
+	--callout-icon: book-open;
+}
+
+/* Custom callout types */
+
+.callout[data-callout="note"] {
+	background-color: transparent;
+}
+.callout[data-callout="note"] .callout-icon {
+	display: none;
+}
+
+.callout[data-callout="fun-fact"] {
+	--callout-color: 255, 159, 85;
+	--callout-icon: party-popper;
+}
+
+.callout[data-callout="lemma"] {
+	--callout-color: 94, 57, 222;
+	--callout-icon: list-todo;
+}
+
+.callout[data-callout="theorem"] {
+	--callout-color: 62, 138, 255;
+	--callout-icon: sigma;
+}
+
+.callout[data-callout="corollary"] {
+	--callout-color: 62, 193, 255;
+	--callout-icon: corner-down-right;
+}
+
+.callout[data-callout="remark"] {
+	--callout-color: 255, 110, 108;
+	--callout-icon: alert-circle;
+
+	.callout-title-inner::before {
+		content: "Remark: ";
+		font-variant: small-caps;
+	}
+}
+
+.callout[data-callout="law"] {
+	--callout-color: 244, 199, 149;
+	--callout-icon: scale;
+}
+
+.callout[data-callout="figure"] {
+	--callout-color: 180, 165, 195;
+	--callout-icon: image;
+
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+
+	padding: 6px;
+
+	background-color: transparent;
+}
+
+/* .cm-callout:has(.callout[data-callout="figure"]) {
+	float: right;
+} */
+
+.callout[data-callout="figure"] {
+	--callout-color: 180, 165, 195;
+	--callout-icon: image;
+
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: center;
+
+	padding: 6px;
+
+	background-color: transparent;
+}
+
+.callout[data-callout="figure"] .callout-title-inner {
+	font-weight: var(--weight);
+	font-family: var(--font-text);
+	color: var(--text-normal);
+}
+
+.callout[data-callout="figure"] .callout-icon {
+	display: none;
+}
